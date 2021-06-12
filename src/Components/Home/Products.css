@@ -1,0 +1,8 @@
+.product > img {
+  max-height: 200px;
+  max-width: 200px;
+}
+.product {
+  display: flex;
+  margin-left: 30px;
+}
