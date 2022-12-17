@@ -1,4 +1,4 @@
-Amazon front endd Clone with React.js
+# Amazon front end Clone with React.js
 
 
 
